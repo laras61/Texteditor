@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.Form1.resources
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\texteditor\texteditor\bin\Debug\net8.0-windows\texteditor.exe
+C:\Users\Lenovo\source\repos\texteditor\texteditor\bin\Debug\net8.0-windows\texteditor.deps.json
+C:\Users\Lenovo\source\repos\texteditor\texteditor\bin\Debug\net8.0-windows\texteditor.runtimeconfig.json
+C:\Users\Lenovo\source\repos\texteditor\texteditor\bin\Debug\net8.0-windows\texteditor.dll
+C:\Users\Lenovo\source\repos\texteditor\texteditor\bin\Debug\net8.0-windows\texteditor.pdb
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.dll
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\refint\texteditor.dll
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.pdb
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\texteditor.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\texteditor\texteditor\obj\Debug\net8.0-windows\ref\texteditor.dll
